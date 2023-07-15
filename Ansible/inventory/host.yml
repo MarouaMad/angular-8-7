@@ -5,4 +5,4 @@ localhost
 [Server:vars]
 ansible_python_interpreter= /usr/bin/python3
 ansibleuser= maroua
-ansible_become_pass=besthaf
+ansible_become_pass=Maroua
